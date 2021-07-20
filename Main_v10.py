@@ -67,6 +67,15 @@ Ausgabe_UI = UI_dir + "Ausgabe_04.ui"
  
 #Test_ausgabe_UI = UI_dir+"Test_ausgabe_1.ui"
 
+#erzeuge den save folder
+
+if not os.path.exists(save_dir):
+    os.makedirs(save_dir)
+#else:
+ #   print("Folder already exist")
+
+
+
 
 class widget(QtWidgets.QWidget):
     '''
