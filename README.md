@@ -1,6 +1,14 @@
 # Mutterlichkeitserfassung
 Mütterlichkeitsindex für Sauen
 
+Bitte alle Dateien runter laden, da sonst die Software nicht funktioniert. 
+
+
+
+
+
+
+
 Dieses Programm ist Freie Software: Sie können es unter den Bedingungen
 der GNU General Public License, wie von der Free Software Foundation,
 Version 3 der Lizenz oder (nach Ihrer Wahl) jeder neueren
